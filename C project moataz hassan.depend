@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1685144107 source:d:\c prgrmz\cd blcks\c project moataz hassan\sdb.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1685139866 source:d:\c prgrmz\cd blcks\c project moataz hassan\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBAPP.h"
+
+1685138628 d:\c prgrmz\cd blcks\c project moataz hassan\sdb.h
+
+1684791959 d:\c prgrmz\cd blcks\c project moataz hassan\sdbapp.c
+	<stdlib.h>
+	"SDB.h"
+	<stdio.h>
+
+1685138830 source:d:\c prgrmz\cd blcks\c project moataz hassan\sdbapp.c
+	"SDB.h"
+
+1684952450 d:\c prgrmz\cd blcks\c project moataz hassan\sdbapp.h
+	"SDB.h"
+
+1685125771 source:d:\c prgrmz\cd blcks\c project moataz hassan\sdb_by_linked_list.c
+	<stdlib.h>
+	"SDB_by_Linked_List.h"
+
+1685125114 d:\c prgrmz\cd blcks\c project moataz hassan\sdb_by_linked_list.h
+
